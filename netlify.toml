@@ -1,3 +1,7 @@
 [dev]
   port = 3000
   targetPort = 5173
+
+[build]
+  command = "npm run build"
+  publish = ".output/public"
