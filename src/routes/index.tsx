@@ -100,7 +100,7 @@ function Home() {
 						To purchase, contact us, WhatsApp +7 *** ** ** ,<br />
 						{CONTACT_EMAIL}
 						<br />
-						instagram @dadmoscow
+						instagram @bksbksbksbooks
 					</p>
 				</footer>
 			</div>
